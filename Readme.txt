@@ -1,0 +1,3 @@
+sorry lost the source code when my hard disk crashed :(. just the exe is here. find it on cnet at http://download.cnet.com/windows/saikat-guha/3260-20_4-10334319-1.html
+
+Keypresser is simple program for generating repeated keypresses.It will keep on generating and sending keystrokes to the current active application. it can be useful in situations where you want to generate repeated keypresses . Maybe like generating F5 repeatedly and keeping your web browser in foreground to refresh some website or for some game. Warning:please don't give delay less than 250 ms else it may cause your system to hang 
